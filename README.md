@@ -1,27 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Animesh2k3/natural-language-to-sql-query-converter/main/assets/logo.png" width="120" alt="Logo" />
-</p>
 
-<h1 align="center">Natural Language to SQL Query Converter</h1>
-
-<p align="center">
-  💬 Convert everyday language into executable SQL queries using AI<br>
-  Built with FastAPI, Streamlit, and LLMs like OpenAI & Groq.
-</p>
-
-<p align="center">
-  <a href="https://github.com/Animesh2k3/natural-language-to-sql-query-converter">
-    <img alt="Stars" src="https://img.shields.io/github/stars/Animesh2k3/natural-language-to-sql-query-converter?style=social" />
-  </a>
-  <a href="https://github.com/Animesh2k3/natural-language-to-sql-query-converter">
-    <img alt="Forks" src="https://img.shields.io/github/forks/Animesh2k3/natural-language-to-sql-query-converter?style=social" />
-  </a>
-  <a href="https://github.com/Animesh2k3/natural-language-to-sql-query-converter/blob/main/LICENSE">
-    <img alt="License" src="https://img.shields.io/github/license/Animesh2k3/natural-language-to-sql-query-converter?color=blue" />
-  </a>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.9+-blue?logo=python" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-💨-green?logo=fastapi" />
-</p>
 
 # 🧠🔄 Natural Language to SQL Query Converter
 
